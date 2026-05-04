@@ -7,12 +7,10 @@
 ---
 
 ### 🚀 Currently Learning
-- Python internals
-- Machine Learning fundamentals
-- Git & system design
-
-### 🧰 Tech I Use
-`Python` `Git` `Linux` `Jupyter`
+- Python 
+- Python Machine Learning 
+- Data science
+- LLM's
 
 ---
 
