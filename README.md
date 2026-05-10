@@ -11,6 +11,8 @@
 - Python Machine Learning 
 - Data science
 - LLM's
+- Database
+- Flutter
 
 ---
 
