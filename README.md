@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Currently Learning
-- Python 
+- Python
 - Python Machine Learning 
 - Data science
 - LLM's
