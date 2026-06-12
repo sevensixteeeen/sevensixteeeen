@@ -13,6 +13,7 @@
 - LLM's
 - Database
 - Flutter
+- linux-Arch
 
 ---
 
